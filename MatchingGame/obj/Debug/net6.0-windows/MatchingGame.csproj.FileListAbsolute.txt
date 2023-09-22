@@ -1,0 +1,5 @@
+C:\Users\200537\source\repos\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame.csproj.AssemblyReference.cache
+C:\Users\200537\source\repos\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\200537\source\repos\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\200537\source\repos\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame_MarkupCompile.cache
+C:\Users\200537\source\repos\MatchingGame\MatchingGame\obj\Debug\net6.0-windows\MatchingGame_MarkupCompile.lref
